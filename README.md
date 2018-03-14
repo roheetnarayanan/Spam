@@ -1,4 +1,4 @@
-# Spam
+# Spam Detection
 Natural Language Processing to detect spam SMS .
 
 
